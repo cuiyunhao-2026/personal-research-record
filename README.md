@@ -1,8 +1,8 @@
 # 本学期工作
-[Lite\-LoRA](# 一、Lite\-LoRA)
+[Lite\-LoRA](#Lite\-LoRA)
 
-[GeoSSL\-Transformer](# 二、GeoSSL\-Transformer)
-## 一、Lite\-LoRA
+[GeoSSL\-Transformer](#GeoSSL\-Transformer)
+## Lite\-LoRA
 ### Week 1（5\.12\-5\.18）：基础设施与 Baseline 复现
 - [x] 解压代码包，运行`smoke_test.py`验证逻辑（本地笔记本）
 - [x] 服务器配置环境，执行`bash setup.sh`
@@ -58,7 +58,7 @@
 - [] 进行最后一次语法和格式检查
 - [] 6 月 28\-29 日正式提交投稿
 - [] 备份所有实验数据和论文版本
-## 二、GeoSSL\-Transformer
+## GeoSSL\-Transformer
 ### 第一阶段：基础准备与代码复现（4 周，6\.14\-7\.11）
 #### 第 1 周（6\.14\-6\.20）：环境配置与数据准备
 - [] 搭建开发环境（Ubuntu 20\.04、Python 3\.10、PyTorch 2\.0\.1\+cu118）
