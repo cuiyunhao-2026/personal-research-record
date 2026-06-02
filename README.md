@@ -1,6 +1,7 @@
 # 本学期工作
-[Lite\-LoRA](#一、Lite\-LoRA)
-[GeoSSL\-Transformer](#二、GeoSSL\-Transformer)
+[Lite\-LoRA](# 一、Lite\-LoRA)
+
+[GeoSSL\-Transformer](# 二、GeoSSL\-Transformer)
 ## 一、Lite\-LoRA
 ### Week 1（5\.12\-5\.18）：基础设施与 Baseline 复现
 - [x] 解压代码包，运行`smoke_test.py`验证逻辑（本地笔记本）
